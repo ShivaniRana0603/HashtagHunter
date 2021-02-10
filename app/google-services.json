@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440441314004",
+    "firebase_url": "https://hashtaghunter-ffe89.firebaseio.com",
+    "project_id": "hashtaghunter-ffe89",
+    "storage_bucket": "hashtaghunter-ffe89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440441314004:android:148a450dfbdc995fb97941",
+        "android_client_info": {
+          "package_name": "com.example.hashtaghunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440441314004-a47b72ef7pbvnbjs6iu8kgf1ooaujevk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhA_LTGsxdCrqh3LOQ6SHHj6YdJ0WlXmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440441314004-a47b72ef7pbvnbjs6iu8kgf1ooaujevk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
