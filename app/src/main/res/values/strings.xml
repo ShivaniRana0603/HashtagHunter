@@ -3,11 +3,13 @@
     <string name="hunt_your_hashtags" tools:ignore="DuplicateDefinition">Hunt your Hashtags</string>
 
 
-
     <string name="enter_your_email_address" tools:ignore="DuplicateDefinition">Enter Your Email Address</string>
     <string name="reset_password" tools:ignore="DuplicateDefinition">Reset Password</string>
 
     <string name="hunter" tools:ignore="DuplicateDefinition">#Hunter</string>
     <string name="good_to_see_you_here_welcome_to_hashtag_hunter">Good to see you here ,Welcome to Hashtag Hunter !</string>
     <string name="log_out">Log Out</string>
+    <string name="go">Go</string>
+
+    <string name="hunt_your_hashtag">Hunt Your Hashtags</string>
 </resources>
